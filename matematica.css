@@ -194,7 +194,7 @@ h1 {
 .conteudo ul li:hover .block {
     display: block;
     text-align: justify;
-    color: var(--marinho);
+    color: var(--vermelho);
     margin-bottom: 5px;
 }
 
