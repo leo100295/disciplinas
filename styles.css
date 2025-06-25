@@ -6,8 +6,7 @@
 
 :root{
     --preto: #000000;
-    --marinho: #493D9E;
-    --amarelo-claro:#FFF2AF;
+    --marinho: #1a099b;
     --roxo-claro:#B2A5FF;
     --verde: #99BC85;
     --azul-claro: #E4EFE7;
@@ -34,7 +33,7 @@ header {
 
 .portfolio h1{
     font-size: 4rem;
-    color: var(--amarelo-claro);
+    color: var(--branco);
 }
 main {
     margin: 40px auto;
