@@ -7,7 +7,6 @@
 :root {
     --preto: #000000;
     --marinho: #1a099b;
-    --amarelo-claro: #FFF2AF;
     --azul: #27a5f8;
     --verde: #76e238;
     --azul-claro: #cde9d4;
@@ -19,7 +18,7 @@ body {
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--azul-claro);
-    color: var(--amarelo-claro);
+    color: var(--branco);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -74,7 +73,7 @@ header {
 }
 
 .lista-vertical a:hover {
-    background-color: var(--amarelo-claro);
+    background-color: var(--branco);
 }
 
 #menu-toggle:checked~.lista-vertical {
@@ -82,7 +81,7 @@ header {
 }
 
 #menu-toggle:checked+.botao-disciplinas {
-    background-color: var(--amarelo-claro);
+    background-color: var(--branco);
 }
 
 .links-principais {
@@ -103,7 +102,7 @@ header {
 
 .lista-horizontal a {
     text-decoration: none;
-    color: var(--amarelo-claro);
+    color: var(--branco);
 }
 
 .lista-horizontal a:hover {
