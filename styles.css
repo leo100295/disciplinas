@@ -33,7 +33,7 @@ header {
 
 .portfolio h1{
     font-size: 4rem;
-    color: var(--branco);
+    color: var(--cobalt);
 }
 main {
     margin: 40px auto;
@@ -53,7 +53,7 @@ main {
 .disciplina {
     display: flex;
     justify-content: center;
-    background-color: var(--branco);
+    background-color: var(--cobalt);
     border-radius: 10px;
     padding: 30px;
     width: 80%;
