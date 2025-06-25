@@ -107,7 +107,7 @@ header {
 }
 
 .lista-horizontal a:hover {
-    color: var(--preto);
+    color: var(--branco);
 }
 
 main {
