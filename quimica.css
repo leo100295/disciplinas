@@ -8,9 +8,8 @@
     --preto: #000000;
      --marinho: #1a099b;
     --azul: #27a5f8;
-    --roxo-claro: #B2A5FF;
-    --verde: #99BC85;
-    --azul-claro: #E4EFE7;
+    --roxo: #b809b8;
+    --azul-claro: #efe4eb;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
 }
@@ -56,7 +55,7 @@ header {
 .lista-vertical {
     display: none;
     position: absolute;
-    background-color: var(--roxo-claro);
+    background-color: var(--azul);
     box-shadow: 0 2px 5px var(--marinho);
     min-width: 190px;
     z-index: 1;
@@ -117,7 +116,7 @@ main {
 
 h1 {
     text-align: center;
-    color: var(--verde);
+    color: var(--roxo);
     margin-bottom: 60px;
     font-size: 4rem;
 }
@@ -149,7 +148,7 @@ h1 {
 .conteudo h2 {
     display: flex;
     justify-content: center;
-    color: var(--verde);
+    color: var(--roxo);
     margin-bottom: 15px;
     font-size: 2.8rem;
 }
@@ -175,7 +174,7 @@ h1 {
 
 .conteudo ul li:hover {
     transform: translateX(10px);
-    color: var(--verde);
+    color: var(--roxo);
 }
 
 .home {
@@ -185,7 +184,7 @@ h1 {
 
 .home a {
     font-size: 2rem;
-    color: var(--verde);
+    color: var(--roxo);
 }
 
 .conteudo ul li .block {
