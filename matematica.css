@@ -8,7 +8,6 @@
     --preto: #000000;
     --marinho:#1a099b;
     --azul: #27a5f8;
-    --roxo-claro: #B2A5FF;
     --vermelho: #e7410f;
     --azul-claro: #E4EFE7;
     --branco: #FFFFFF;
@@ -56,7 +55,7 @@ header {
 .lista-vertical {
     display: none;
     position: absolute;
-    background-color: var(--roxo-claro);
+    background-color: var(--azul);
     box-shadow: 0 2px 5px var(--marinho);
     min-width: 190px;
     z-index: 1;
@@ -103,7 +102,7 @@ header {
 
 .lista-horizontal a {
     text-decoration: none;
-    color: var(--azul);
+    color: var(--branco);
 }
 
 .lista-horizontal a:hover {
