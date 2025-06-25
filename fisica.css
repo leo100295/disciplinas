@@ -8,7 +8,6 @@
     --preto: #000000;
     --marinho: #1a099b;
    --azul: #27a5f8;
-    --roxo-claro: #B2A5FF;
     --blue: #46d4ff;
     --azul-claro: #bbecf3;
     --branco: #FFFFFF;
@@ -56,7 +55,7 @@ header {
 .lista-vertical {
     display: none;
     position: absolute;
-    background-color: var(--roxo-claro);
+    background-color: var(--azul);
     box-shadow: 0 2px 5px var(--marinho);
     min-width: 190px;
     z-index: 1;
