@@ -8,7 +8,6 @@
     --preto: #000000;
     --marinho: #1a099b;
     --azul:#27a5f8;
-    --verde: #99BC85;
     --azul-claro: #c1ebeb;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
@@ -68,7 +67,7 @@ main {
 }
 
 .disciplina a {
-    color: var(--verde);
+    color: var(--branco);
     font-size: 5rem;
     text-decoration: none;
 }
