@@ -73,7 +73,7 @@ header {
 }
 
 .lista-vertical a:hover {
-    background-color: var(--azul);
+    background-color: var(--branco);
 }
 
 #menu-toggle:checked~.lista-vertical {
